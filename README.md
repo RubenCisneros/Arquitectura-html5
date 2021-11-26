@@ -7,4 +7,4 @@ LandingPage de una empresa de Arquitectura
 
 El código de producción se genero utilizando gulp
 
-[ver sitio](https://github.com/RubenCisneros/Arquitectura-html5)
+[ver sitio](https://rubencisneros.github.io/Arquitectura-html5/)
