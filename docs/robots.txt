@@ -1,0 +1,4 @@
+User-agent: *
+Allow  /
+Allow: /index.html
+Sitemap: https://github.com/RubenCisneros/Arquitectura-html5/sitemam.xml
